@@ -6,8 +6,9 @@
   "include": [
     "src/**/*",
     "test/**/*.ts",
+    "configs/**/*.ts",
     "vite.config.ts",
-    "playwright.config.ts"
+    "vitest.conformance.config.ts"
   ],
   "exclude": ["node_modules", "dist"]
 }
