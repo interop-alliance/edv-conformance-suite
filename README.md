@@ -1,7 +1,5 @@
 # EDV Conformance Suite _(@interop/edv-conformance-suite)_
 
-[![NPM Version](https://img.shields.io/npm/v/@interop/edv-conformance-suite.svg)](https://npm.im/@interop/edv-conformance-suite)
-
 > A conformance test suite for
 > [Encrypted Data Vault (EDV)](https://digitalbazaar.github.io/encrypted-data-vaults/)
 > servers, runnable against any implementation over HTTPS.
